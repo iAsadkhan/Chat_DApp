@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@babel/preset-env": "^7.18.9",
     "@sanity/client": "^3.3.2",
     "gun": "^0.2020.1237",
     "next": "12.2.3",
